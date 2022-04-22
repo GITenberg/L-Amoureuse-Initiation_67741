@@ -1,0 +1,26 @@
+_repo: L-Amoureuse-Initiation_67741
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Milosz, Oscar
+    gutenberg_agent_id: '54434'
+    url: http://www.gutenberg.org/2009/agents/54434
+description: ''
+gutenberg_issued: '2022-03-31'
+identifiers:
+  gutenberg: '67741'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101067524031
+pgterms:marc905: 20210405081101milosz
+pgterms:marc906: '1910'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: France :Bernard Grasset,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'Amoureuse Initiation
+url: http://www.gutenberg.org/ebooks/67741
